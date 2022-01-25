@@ -1,6 +1,6 @@
 import bodyParser from "body-parser";
 import Mongoose from "mongoose";
-import express from "Express";
+import express from "express";
 import cors from "cors";
 import work from "./routes/work.js";
 import dotenv from "dotenv";
